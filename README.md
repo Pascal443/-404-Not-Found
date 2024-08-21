@@ -1,5 +1,5 @@
 # -404-Not-Found
-I was bored and decided to create this customizable 404 page template to help you handle errors with grace and style ;-)
+I was bored and decided to create this simple yet stylish 404 page template to help users navigate when they get lost
 **Languages**
 - HTML
 - CSS
